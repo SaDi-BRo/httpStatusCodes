@@ -77,6 +77,7 @@ export enum StatusCodes {
   NOT_MODIFIED = 304,
   /**
    * Defined in a previous version of the HTTP specification to indicate that a requested response must be accessed by a proxy. It has been deprecated due to security concerns regarding in-band configuration of a proxy.
+   * @deprecated
    */
   USE_PROXY = 305,
   /**
