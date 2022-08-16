@@ -1,4 +1,4 @@
-<h1 align="center">HTTPS Status Codes</h1>
+<h1 align="center">HTTP Status Codes</h1>
 
 # Usage
 
