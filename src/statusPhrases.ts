@@ -167,7 +167,7 @@ export enum StatusPhrases {
   /**
    * The server refuses the attempt to brew coffee with a teapot.
    */
-  IM_A_TEAPOT = "I'm a teapot",
+  IM_A_TEAPOT = 'I\'m a teapot',
   /**
    * The request was directed at a server that is not able to produce a response. This can be sent by a server that is not configured to produce responses for the combination of scheme and authority that are included in the request URI.
    */
