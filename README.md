@@ -6,7 +6,7 @@
 import {
   StatusCodes,
   StatusPhrases,
-} from 'https://deno.land/x/httpstatuscodes/src/index.ts';
+} from 'https://deno.land/x/httpstatuscodes/mod.ts';
 
 console.log(StatusCodes.OK); // 200
 console.log(StatusPhrases.OK); // OK
