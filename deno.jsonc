@@ -1,0 +1,10 @@
+{
+  "fmt": {
+    "files": {
+      "include": ["**/*.ts"]
+    },
+    "options": {
+      "singleQuote": true
+    }
+  }
+}
